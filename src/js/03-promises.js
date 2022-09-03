@@ -4,7 +4,7 @@ const form = document.querySelector(".form")
 const firstDelayInp = form[0]
 const stepDelayInp = form[1]
 const amountInp = form[2]
-const btn = form[3]
+
 
 
 function createPromise(position, delay) {
